@@ -1,0 +1,7 @@
+name: wificlass
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
